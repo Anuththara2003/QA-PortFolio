@@ -4,8 +4,8 @@ import { motion, AnimatePresence } from "framer-motion";
 
 // ඔයාගේ පින්තූර 5 මෙතනට දාන්න
 const images = [
-  "/bg1.jpg",
-   // "/bg2.jpg",
+
+    "/bg6.jpg",
   "/bg4.jpg",
   "/bg3.jpg",
   "/bg5.jpg",

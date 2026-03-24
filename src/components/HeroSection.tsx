@@ -69,7 +69,7 @@ const HeroSection = () => {
             </div>
 
             <p className="text-sm sm:text-lg text-gray-300 leading-relaxed max-w-3xl mx-auto mb-12 px-4 drop-shadow-sm">
-              Passionate Software Engineering student with a growing specialization in Quality Assurance.
+              Passionate Software Engineer with a growing specialization in Quality Assurance.
               Dedicated to creating clean, efficient solutions while mastering modern testing frameworks
               to build dependable digital experiences.
             </p>
